@@ -1,5 +1,5 @@
-# info-bot
+# ✨ Dinfu
 
-[![license](https://img.shields.io/github/license/legendnightt/info-bot.svg)](https://github.com/legendnightt/info-bot/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/skuzow/dinfu.svg)](https://github.com/skuzow/dinfu/blob/master/LICENSE)
 
-discord bot for embed cool server info
+Discord embed messages manager bot.
