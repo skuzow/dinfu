@@ -6,6 +6,10 @@
   "repository": "git@github.com:skuzow/dinfu.git",
   "author": "skuzow <alex@skuzow.net>",
   "license": "GPL-3.0",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
+  },
   "dependencies": {
     "discord.js": "^13.7.0"
   },
