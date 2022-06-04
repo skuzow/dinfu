@@ -1,0 +1,16 @@
+{
+  "name": "dinfu",
+  "version": "0.0.1",
+  "description": "Discord embed messages manager bot.",
+  "main": "app.js",
+  "repository": "git@github.com:skuzow/dinfu.git",
+  "author": "skuzow <alex@skuzow.net>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "nodemon": "^2.0.16"
+  }
+}
